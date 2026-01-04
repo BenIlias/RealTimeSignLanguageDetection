@@ -1,5 +1,0 @@
-opencv-contrib-python
-opencv-python
-cvzone==1.6.1
-numpy
-mediapipe==0.10.14
